@@ -1,0 +1,501 @@
+City Population,Continent,Venue Capacity,Day of Week,Multiple Concerts,Sold Out
+7971301,North America,21024,Tuesday,0,0
+7378334,Africa,38741,Monday,1,1
+6787781,Europe,18247,Friday,0,0
+28653498,Europe,32439,Friday,1,1
+936124,Europe,48753,Thursday,1,1
+14949461,Asia,9698,Monday,1,0
+23582477,Oceania,20335,Sunday,0,0
+8876941,South America,8164,Friday,1,0
+24768915,Oceania,15601,Saturday,0,0
+15793994,Asia,8229,Sunday,0,0
+26009839,Asia,32714,Saturday,1,1
+24341813,Europe,46920,Wednesday,0,1
+11984920,Oceania,19043,Tuesday,1,0
+15238124,Africa,24252,Sunday,0,0
+2654210,Asia,29290,Wednesday,0,0
+21617675,Europe,45954,Thursday,1,1
+31293026,Europe,20359,Tuesday,0,0
+18132290,Africa,41311,Thursday,1,1
+9783286,Oceania,35343,Monday,0,1
+10757007,Africa,13484,Sunday,1,0
+26321297,South America,42052,Thursday,1,1
+1270478,Africa,10507,Saturday,1,0
+23328789,North America,22234,Thursday,0,0
+18175739,Oceania,14708,Friday,0,1
+20528290,Africa,36270,Friday,0,1
+11341372,Oceania,37757,Monday,1,1
+8007315,Asia,23153,Tuesday,0,0
+5785296,North America,34849,Sunday,0,1
+8939645,Europe,46237,Thursday,0,1
+28896306,Europe,38343,Sunday,0,1
+27275919,Africa,45590,Wednesday,1,1
+30798722,North America,19246,Tuesday,0,0
+15942738,Oceania,17432,Monday,0,0
+4450951,Europe,7417,Monday,1,0
+16472220,Asia,46842,Thursday,0,1
+32220415,Europe,33996,Sunday,1,1
+7004916,Africa,31249,Wednesday,1,1
+4135366,Africa,45824,Saturday,0,1
+23270212,North America,19295,Tuesday,0,0
+9907474,South America,15025,Wednesday,1,0
+5558994,South America,39066,Monday,0,1
+1490382,North America,18491,Tuesday,1,0
+14844338,South America,6842,Tuesday,1,0
+26700760,Asia,32819,Wednesday,1,1
+33159965,Europe,15445,Wednesday,0,0
+4590793,Africa,23552,Monday,0,0
+34245717,Oceania,13317,Monday,0,0
+5098388,Oceania,7453,Saturday,0,0
+17023232,Oceania,41962,Monday,0,1
+21731220,Asia,16386,Saturday,1,0
+27060738,Europe,47019,Saturday,1,1
+5368286,North America,33034,Friday,0,1
+14804543,Oceania,20380,Tuesday,1,1
+16893649,Asia,21676,Tuesday,1,1
+20801581,Oceania,45858,Friday,0,1
+20590967,Africa,9788,Tuesday,1,0
+7683062,Africa,39256,Tuesday,1,1
+14635116,Africa,25471,Tuesday,1,1
+17352461,North America,9048,Saturday,1,1
+3458612,North America,24859,Sunday,0,0
+18079520,Europe,31956,Friday,1,1
+8007729,North America,48286,Tuesday,0,1
+10438405,South America,11352,Monday,1,0
+3177299,Asia,16767,Saturday,0,0
+24234971,Oceania,29632,Friday,0,1
+16387173,Europe,14603,Thursday,0,0
+22792589,South America,46903,Sunday,0,1
+7754174,South America,5537,Sunday,1,0
+31390427,Asia,23000,Sunday,0,0
+13460720,South America,24512,Wednesday,0,1
+19231761,Asia,45040,Friday,1,1
+22723091,North America,10559,Wednesday,0,0
+18315146,North America,10104,Friday,1,0
+21550528,South America,42728,Friday,0,1
+13255970,Asia,5908,Saturday,1,0
+13722803,Asia,31265,Monday,1,1
+8863463,Africa,22681,Friday,1,1
+22389764,South America,48692,Wednesday,0,1
+25944008,Africa,14405,Friday,1,0
+527242,Asia,21803,Tuesday,1,1
+22125779,South America,31952,Thursday,0,1
+11887796,Africa,8557,Wednesday,1,0
+16261764,Africa,23343,Tuesday,0,0
+3601350,Europe,34138,Friday,0,1
+13548327,Africa,48636,Thursday,1,1
+10403345,Africa,48064,Monday,0,1
+15186180,Europe,48607,Friday,1,1
+17223413,North America,32914,Tuesday,1,1
+21793505,South America,43150,Sunday,1,1
+30424755,Europe,34108,Thursday,1,1
+19110049,Oceania,34758,Saturday,0,1
+5699819,Africa,21725,Tuesday,1,0
+5907475,Europe,12884,Tuesday,1,0
+14858134,North America,30188,Thursday,1,1
+28402136,North America,16555,Sunday,1,0
+1810767,Oceania,27928,Thursday,0,1
+20539555,South America,30460,Friday,0,1
+18816378,South America,34827,Monday,1,1
+27633232,Africa,13816,Sunday,1,1
+2309687,South America,41790,Friday,0,1
+29263716,Europe,33257,Tuesday,0,1
+22468265,Europe,32799,Wednesday,1,1
+25942729,Asia,30627,Wednesday,0,1
+3995405,Asia,17694,Saturday,0,1
+3201677,North America,19205,Tuesday,0,0
+16508480,Europe,34035,Saturday,0,1
+15127352,South America,48840,Wednesday,1,1
+8186170,Europe,23384,Monday,0,1
+25686423,South America,49859,Tuesday,0,1
+16797346,North America,48691,Sunday,1,1
+8623867,Oceania,5691,Wednesday,1,0
+5127608,Oceania,45437,Wednesday,0,1
+33396879,North America,31411,Wednesday,1,1
+29725047,Europe,37193,Saturday,1,1
+32946968,South America,31545,Sunday,1,1
+16974901,North America,21279,Thursday,0,0
+25933541,Asia,4880,Thursday,1,0
+14735122,Asia,19931,Wednesday,1,1
+19040070,Oceania,3665,Friday,0,0
+27774929,South America,39384,Sunday,0,1
+33438462,South America,4130,Monday,1,0
+16827933,Asia,46513,Friday,1,1
+23569168,South America,39070,Wednesday,1,1
+18680893,Asia,19475,Tuesday,0,0
+21676064,North America,38118,Sunday,0,1
+32994017,Asia,41639,Sunday,1,1
+13527010,Asia,17908,Wednesday,0,0
+8994838,Asia,5982,Monday,1,0
+8974473,Africa,35170,Monday,0,1
+32000695,South America,31866,Wednesday,0,1
+17443537,South America,10476,Sunday,0,0
+5471570,Oceania,44251,Saturday,0,1
+20890056,North America,19265,Monday,1,1
+15645607,Oceania,27928,Thursday,1,1
+29278283,Asia,40265,Friday,0,1
+7159452,Europe,43993,Tuesday,1,1
+11039923,Europe,14391,Friday,0,0
+27915150,South America,48178,Friday,1,1
+16034107,Asia,49331,Wednesday,1,1
+16164806,Asia,43963,Friday,0,1
+15586706,Africa,12764,Wednesday,0,0
+11634889,Asia,41996,Saturday,1,1
+31953788,Africa,22928,Saturday,1,1
+34086119,Oceania,35361,Thursday,0,1
+29492952,Africa,24123,Friday,1,1
+15862857,Africa,40696,Friday,0,1
+18586578,Oceania,5636,Sunday,0,0
+30177512,Asia,14894,Friday,1,1
+33499159,North America,33802,Wednesday,1,1
+7519579,Europe,24614,Thursday,1,0
+27373895,Oceania,5404,Thursday,0,0
+22194536,North America,29488,Sunday,0,1
+31502707,South America,6552,Tuesday,1,0
+33953305,Africa,31969,Sunday,0,1
+9292148,Asia,31712,Saturday,1,1
+16558980,Africa,13379,Wednesday,0,0
+6755163,Europe,10435,Thursday,0,0
+10832827,South America,49963,Wednesday,1,1
+32879998,South America,18973,Thursday,0,0
+34607468,Africa,11946,Sunday,0,0
+28346314,Asia,36275,Wednesday,0,1
+20535743,Oceania,41005,Saturday,1,1
+30467288,Oceania,34741,Wednesday,1,1
+25814138,South America,24088,Sunday,0,1
+16525968,Oceania,28098,Tuesday,1,0
+32240898,Africa,27984,Thursday,0,1
+2984344,Europe,35918,Friday,1,1
+30048449,North America,37468,Thursday,0,1
+28013199,Africa,13116,Monday,1,0
+18285377,Asia,43845,Saturday,1,1
+22549663,Africa,37971,Thursday,1,1
+33245601,Oceania,5352,Friday,0,0
+19785678,Europe,8923,Thursday,0,0
+7244926,South America,13902,Saturday,1,1
+3586401,Asia,6677,Wednesday,1,0
+10269023,Europe,37810,Thursday,0,1
+5799476,Oceania,28070,Friday,0,1
+10104467,Europe,33221,Saturday,1,1
+1130650,South America,21850,Saturday,0,0
+23690516,Oceania,22605,Saturday,1,1
+31157732,Asia,16055,Thursday,1,0
+26092924,Oceania,26524,Friday,1,1
+20312600,North America,46137,Thursday,1,1
+3791303,Oceania,35553,Sunday,1,1
+15942983,Oceania,26089,Tuesday,0,1
+9679099,Africa,9367,Saturday,0,0
+30083143,North America,40982,Wednesday,0,1
+20304527,Asia,30230,Tuesday,0,0
+25052283,Oceania,35885,Wednesday,0,1
+32836260,Asia,25198,Sunday,0,0
+5553254,Europe,17785,Sunday,1,1
+25046748,North America,28858,Monday,1,1
+31020173,Asia,47094,Saturday,1,1
+25429174,North America,47226,Tuesday,1,1
+22512128,Oceania,17507,Saturday,0,1
+31656466,Africa,22804,Saturday,1,1
+3543172,North America,22946,Thursday,0,0
+9604260,South America,32729,Wednesday,1,1
+10869856,South America,45920,Monday,1,1
+19273043,North America,48238,Wednesday,0,1
+16345250,Asia,9511,Saturday,1,0
+24570194,North America,29092,Wednesday,0,1
+31015566,North America,46435,Tuesday,0,1
+22881420,Europe,11252,Sunday,0,0
+14402095,Oceania,17152,Sunday,0,0
+10402193,Oceania,3185,Wednesday,0,0
+17321118,Europe,10204,Saturday,0,0
+24541232,Europe,41591,Wednesday,0,1
+4016438,Europe,30588,Friday,0,1
+32460325,South America,26726,Friday,0,1
+15367952,Oceania,5841,Saturday,1,0
+2590484,North America,34390,Sunday,1,1
+7745195,South America,49687,Thursday,0,1
+22116558,Oceania,12721,Monday,0,0
+22322825,South America,42150,Friday,1,1
+29370188,North America,48991,Monday,0,1
+15833944,South America,25212,Sunday,1,1
+6881102,Asia,30968,Wednesday,1,1
+10743424,Africa,34081,Monday,0,1
+6756566,South America,9328,Saturday,1,1
+4525255,Oceania,39804,Friday,1,1
+28068900,Asia,46603,Sunday,1,1
+3952487,Asia,42348,Wednesday,1,1
+34551879,Europe,13140,Saturday,1,0
+7762412,Asia,39455,Wednesday,0,1
+15677279,South America,39763,Sunday,0,1
+18448113,North America,14823,Wednesday,1,1
+24056783,North America,14888,Sunday,0,0
+27396182,North America,12297,Saturday,0,0
+14937323,South America,30514,Thursday,1,1
+21413629,Africa,24258,Sunday,0,1
+10940790,Europe,43490,Monday,0,1
+28955149,South America,42785,Thursday,1,1
+34882978,North America,25621,Thursday,0,0
+33157371,Oceania,46721,Wednesday,0,1
+4176355,North America,16397,Wednesday,0,0
+17647623,Asia,24503,Monday,0,0
+29400768,Europe,11466,Thursday,0,0
+24267756,North America,29022,Sunday,0,1
+31353585,North America,23516,Friday,1,1
+28530967,Asia,10548,Thursday,0,0
+12034213,Oceania,33152,Sunday,1,1
+7604354,Europe,31552,Friday,1,1
+27059453,Asia,25250,Tuesday,1,1
+5625733,Oceania,44499,Monday,0,1
+23946177,Asia,45299,Sunday,0,1
+10327705,Asia,15928,Tuesday,0,0
+5556872,Europe,44153,Thursday,1,1
+30625521,Africa,39994,Saturday,1,1
+21715722,Europe,31820,Monday,1,1
+20821935,Asia,41759,Monday,1,1
+21331118,South America,32616,Monday,0,1
+19765413,North America,45248,Sunday,0,1
+34528745,South America,33324,Friday,0,1
+13132536,Asia,42649,Thursday,0,1
+30734094,North America,25507,Saturday,0,1
+12080232,North America,19236,Saturday,1,1
+11153277,Asia,27435,Wednesday,1,1
+23207434,Africa,42183,Monday,1,1
+6842186,Oceania,47458,Thursday,1,1
+10591383,Asia,8341,Friday,0,0
+21319299,Africa,48775,Saturday,1,1
+6185396,Asia,39629,Thursday,1,1
+6771522,Africa,46939,Thursday,1,1
+21227651,Europe,17037,Wednesday,1,0
+9731854,Europe,8057,Wednesday,0,0
+3033191,Africa,25070,Sunday,0,0
+10851727,Europe,14851,Sunday,0,0
+3432149,South America,26874,Saturday,0,1
+19621189,Africa,32420,Tuesday,0,1
+31975104,Europe,27106,Saturday,1,1
+19409380,South America,35958,Friday,1,1
+13901487,Oceania,12070,Sunday,1,0
+32751892,Asia,39342,Monday,0,1
+11258378,Asia,32446,Friday,0,1
+6654793,Europe,32565,Wednesday,0,1
+27105575,Oceania,27507,Tuesday,1,1
+25659963,Europe,4847,Wednesday,0,0
+23000954,Europe,12017,Monday,1,0
+32205913,Africa,12095,Sunday,1,0
+852401,North America,4245,Wednesday,0,0
+28904146,North America,21881,Tuesday,1,0
+16501404,South America,44874,Sunday,1,1
+34042971,Oceania,38130,Monday,0,1
+20046932,South America,3102,Friday,1,0
+28455378,Europe,46540,Saturday,0,1
+24699708,North America,37475,Friday,0,1
+32050231,North America,44659,Thursday,1,1
+1589997,Asia,7427,Wednesday,0,0
+7456764,Oceania,24791,Tuesday,0,0
+23219521,Africa,14474,Sunday,1,1
+32613683,Africa,14945,Sunday,0,0
+31214356,North America,22231,Tuesday,0,1
+3312260,Asia,23321,Friday,1,1
+32269320,Asia,5399,Sunday,0,0
+3708074,Africa,24753,Wednesday,0,1
+29823310,South America,31818,Thursday,1,1
+33799634,Africa,35605,Wednesday,1,1
+28987690,North America,31220,Friday,0,1
+22056134,North America,8247,Wednesday,1,0
+29096165,Europe,48204,Thursday,1,1
+24159854,Oceania,31504,Wednesday,0,0
+27760307,Asia,36625,Sunday,0,1
+10081767,Oceania,47439,Sunday,1,1
+5011954,Europe,45281,Wednesday,1,1
+2673342,Oceania,13055,Saturday,1,1
+25465395,South America,8038,Friday,0,0
+27211612,Asia,45569,Wednesday,0,1
+2239014,Africa,15192,Thursday,1,0
+8402806,Asia,20058,Saturday,1,0
+19664739,Africa,35191,Tuesday,0,1
+5469548,South America,14315,Saturday,1,1
+21947172,Africa,25768,Saturday,0,1
+19985882,Asia,13322,Saturday,0,0
+34642020,Europe,10953,Tuesday,0,0
+33653251,North America,26651,Friday,1,1
+9208799,Oceania,8650,Monday,1,0
+32622671,Oceania,29921,Sunday,1,1
+5449326,Europe,23776,Saturday,0,1
+23619995,Europe,39130,Saturday,0,1
+9159255,South America,35955,Sunday,0,1
+10768694,Asia,13790,Tuesday,1,1
+15631054,Asia,37006,Wednesday,0,1
+18918097,Europe,43961,Wednesday,0,1
+11816963,Oceania,41053,Tuesday,0,1
+23157266,Oceania,5699,Sunday,0,0
+18260757,Africa,16815,Sunday,1,0
+2532452,South America,44101,Friday,1,1
+20773192,South America,19048,Sunday,1,0
+5397136,Africa,6926,Tuesday,1,0
+31668185,Europe,25294,Friday,0,1
+21928960,Africa,25634,Thursday,0,1
+7625883,Asia,18842,Thursday,0,0
+17137554,Europe,9344,Monday,1,0
+28560547,Europe,13466,Sunday,1,1
+21485943,Europe,13442,Thursday,1,0
+21205801,South America,4518,Monday,1,0
+16655025,Europe,41230,Wednesday,0,1
+33711787,Oceania,45877,Saturday,1,1
+1048776,North America,31241,Tuesday,1,1
+27561922,Asia,5965,Thursday,0,0
+13563096,Asia,39256,Wednesday,0,1
+30722770,Oceania,21331,Sunday,0,0
+6988184,South America,27457,Sunday,1,1
+25035428,Europe,16045,Friday,1,1
+3540256,North America,11980,Saturday,1,1
+31167983,Europe,42731,Friday,0,1
+21876188,Europe,28752,Friday,1,1
+34545332,Oceania,37887,Thursday,1,1
+1616487,Asia,24708,Saturday,0,1
+21147909,Africa,48091,Saturday,0,1
+18319445,Africa,40910,Friday,0,1
+32742372,Europe,37356,Saturday,1,1
+16753536,North America,40523,Saturday,0,1
+30097597,Asia,30445,Tuesday,1,1
+28039961,Oceania,43073,Thursday,0,1
+14414466,Oceania,24302,Saturday,1,1
+21555580,Europe,33124,Friday,1,1
+18241045,Oceania,34731,Tuesday,0,1
+20531939,Europe,22504,Sunday,1,1
+33316441,Asia,34444,Wednesday,1,1
+25980845,South America,25618,Sunday,0,0
+19802545,Africa,8179,Wednesday,1,0
+32650465,Europe,16242,Sunday,1,1
+18728208,Europe,10158,Friday,0,0
+15644567,Africa,18259,Monday,0,0
+32202489,North America,47642,Sunday,0,1
+11099246,South America,45787,Thursday,1,1
+19776688,Asia,21704,Saturday,0,1
+6503607,Africa,40626,Tuesday,0,1
+12248398,South America,14520,Monday,1,0
+13003161,Africa,21970,Monday,0,0
+7700827,Asia,21649,Thursday,1,1
+9506005,Oceania,33672,Wednesday,0,1
+22691834,Europe,33075,Saturday,1,1
+1445174,Africa,25092,Sunday,1,1
+13462834,Europe,43039,Sunday,1,1
+22506785,North America,29269,Saturday,0,1
+9936303,South America,24207,Tuesday,0,0
+16305563,South America,20497,Wednesday,1,1
+1267439,Asia,45839,Wednesday,0,1
+8433935,South America,23106,Tuesday,1,1
+21369376,Africa,10694,Saturday,1,0
+15320941,Europe,11753,Thursday,0,0
+25573538,South America,49002,Friday,1,1
+15157355,Europe,47586,Sunday,0,1
+24778971,North America,39973,Monday,0,1
+34422662,Europe,40532,Friday,0,1
+30151417,North America,47583,Tuesday,1,1
+34750710,South America,6646,Thursday,0,0
+31155226,Oceania,6783,Friday,1,0
+21180909,Africa,4426,Thursday,1,0
+15123109,Oceania,7786,Monday,1,0
+4778855,Oceania,6948,Monday,1,0
+27938595,Europe,11875,Sunday,1,0
+26167772,South America,27739,Thursday,0,1
+9424794,Africa,25791,Monday,0,1
+26877718,Oceania,11345,Saturday,0,0
+2025741,Asia,33343,Saturday,1,1
+15912494,Europe,33187,Wednesday,0,1
+8072875,North America,46266,Thursday,0,1
+5015816,North America,41924,Monday,1,1
+3766612,Europe,5899,Thursday,1,0
+15080689,North America,12183,Friday,1,0
+21901264,Oceania,42185,Sunday,1,1
+10114044,Africa,37160,Tuesday,1,1
+4590797,Oceania,41775,Saturday,0,1
+29168945,Oceania,35481,Monday,1,1
+26078854,Oceania,23888,Saturday,1,1
+20625176,South America,15050,Sunday,1,0
+15622616,Asia,49371,Tuesday,1,1
+28194317,South America,39522,Friday,0,1
+17612468,Europe,24644,Saturday,0,1
+25402589,North America,38103,Saturday,0,1
+25811314,Africa,42647,Friday,0,1
+13127424,Oceania,47004,Friday,0,1
+22844856,Asia,4004,Tuesday,0,0
+8372956,Africa,34386,Tuesday,0,1
+16561228,Oceania,24077,Sunday,1,1
+24609500,Asia,20141,Wednesday,1,0
+32006968,Asia,16312,Wednesday,1,0
+15349453,Africa,12563,Monday,1,0
+28523190,Asia,12988,Tuesday,1,0
+16990662,South America,39086,Saturday,1,1
+33290806,Africa,45054,Saturday,1,1
+24134142,Europe,12172,Saturday,1,0
+4441441,Oceania,5216,Sunday,0,0
+3755745,North America,30026,Tuesday,0,0
+10635428,North America,17334,Friday,1,0
+32927281,Africa,34972,Monday,0,1
+28104460,North America,4096,Friday,1,0
+19739342,North America,35913,Sunday,1,1
+12530394,North America,9312,Friday,0,0
+17439498,Asia,20519,Sunday,1,0
+27748038,South America,40027,Tuesday,0,1
+5910109,Africa,45591,Sunday,0,1
+25951977,South America,39221,Thursday,0,1
+12001357,North America,35758,Sunday,1,1
+22731194,Oceania,9249,Friday,0,0
+32410284,Asia,6051,Monday,1,0
+2708001,Europe,23610,Monday,0,0
+27229193,North America,22613,Tuesday,0,0
+26615857,Africa,38426,Wednesday,1,1
+9891925,Africa,8139,Friday,1,0
+29832496,Europe,7981,Wednesday,1,0
+22402766,North America,44557,Wednesday,1,1
+24378085,Oceania,27603,Thursday,0,1
+26006248,North America,43541,Wednesday,0,1
+6005477,Asia,13107,Thursday,0,0
+21751916,Asia,9982,Monday,0,0
+30345718,Asia,20679,Monday,0,0
+29422545,South America,39502,Friday,1,1
+6514218,Asia,39321,Monday,1,1
+1328164,Asia,30119,Thursday,0,1
+16790174,Oceania,37151,Tuesday,1,1
+18546846,Asia,20590,Thursday,0,0
+29670630,Asia,30597,Wednesday,1,1
+24734682,Asia,19160,Saturday,1,1
+13623019,South America,10010,Tuesday,1,0
+27054439,Asia,43644,Thursday,1,1
+29398165,Africa,41954,Tuesday,1,1
+13978915,South America,23590,Tuesday,1,1
+20058754,Africa,48544,Saturday,1,1
+16768819,Asia,27645,Wednesday,1,1
+13908354,Oceania,38758,Tuesday,0,1
+31478942,Africa,16739,Thursday,1,1
+5141159,South America,47104,Thursday,0,1
+16741765,Asia,46166,Tuesday,1,1
+5463716,South America,42186,Thursday,1,1
+28571684,Oceania,5409,Sunday,1,0
+6203041,North America,19268,Saturday,1,0
+3472700,Oceania,45272,Saturday,1,1
+22753077,South America,9943,Monday,0,0
+34770902,Africa,36999,Friday,0,1
+26748569,South America,47535,Friday,0,1
+2148371,South America,9851,Wednesday,1,0
+6261618,North America,12284,Wednesday,1,0
+14382631,Oceania,34649,Wednesday,1,1
+30863217,Asia,7402,Wednesday,0,0
+8223241,North America,25483,Saturday,0,1
+11529616,Africa,18985,Friday,0,0
+22712339,Oceania,30942,Thursday,0,1
+12878349,Europe,44974,Saturday,1,1
+13742218,South America,41810,Thursday,1,1
+14914722,Europe,21241,Sunday,0,0
+13046662,Asia,24363,Tuesday,1,0
+33348713,Oceania,44884,Wednesday,1,1
+8165984,Asia,26067,Sunday,1,1
+20461184,Oceania,41677,Monday,0,1
+16510344,Asia,10664,Tuesday,1,0
+34780876,South America,30409,Friday,0,1
+28889652,Europe,34894,Saturday,0,1
+33359320,Asia,12194,Tuesday,1,0
+4097790,Asia,3628,Thursday,0,0
+26266057,Oceania,36124,Saturday,1,1
+33499165,South America,49539,Sunday,1,1
+6047931,Oceania,5022,Sunday,0,0
+18945067,Europe,38232,Wednesday,0,1
+33739915,Oceania,36476,Monday,0,1
+25119676,Oceania,5726,Sunday,1,0
